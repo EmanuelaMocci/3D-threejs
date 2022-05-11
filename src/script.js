@@ -8,8 +8,6 @@ import { TextGeometry } from "three/examples/jsm/geometries/TextGeometry.js";
 /**
  * Base
  */
-// Debug
-const gui = new dat.GUI();
 
 // Canvas
 const canvas = document.querySelector("canvas.webgl");
